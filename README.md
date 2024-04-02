@@ -1,1 +1,1 @@
-# scaling-octo-sniffle I am creating this as paart of a project
+I am creating this as paart of a project
